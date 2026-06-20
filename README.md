@@ -5,7 +5,6 @@ Teacher Chatbot is a Python-based chatbot developed to provide information about
 
 ## 🚀 Features
 - Urdu and English language support
-- Interactive GUI using Tkinter
 - Keyword-based question answering
 - Text-to-Speech functionality
 - Information about teaching profession
@@ -13,7 +12,6 @@ Teacher Chatbot is a Python-based chatbot developed to provide information about
 
 ## 🛠 Technologies Used
 - Python
-- Tkinter
 - pyttsx3
 - VS Code
 
@@ -27,6 +25,7 @@ teacher-chatbot/
 ├── data.py
 ├── README.md
 └── father.jpg
+
 
 ## 👩‍💻 Developer
 Amna Khan
