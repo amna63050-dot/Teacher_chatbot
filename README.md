@@ -28,18 +28,6 @@ teacher-chatbot/
 ├── README.md
 └── father.jpg
 
-## 💡 How It Works
-1. User enters a question.
-2. The chatbot searches keywords in the dataset.
-3. A matching answer is returned.
-4. The response can also be spoken using text-to-speech.
-
-## 📖 Example Questions
-- What is your father's occupation?
-- What subject does he teach?
-- How much teaching experience does he have?
-- Where does he teach?
-
 ## 👩‍💻 Developer
 Amna Khan
 
